@@ -612,7 +612,7 @@ Please open an issue first for larger changes.
 
 ## 19. License
 
-No license file is currently included in this repository, which means all rights are reserved by default. If you intend this project to be open source, add a `LICENSE` file (for example MIT or Apache-2.0) and update this section.
+No license file is currently included.
 
 ---
 
